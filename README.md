@@ -1,5 +1,2 @@
 # SimpleNotepad
-Download Simple Notepad v1.0.0
-
-
-Change Log:
+This is simple program where you can write text documents, view them, and also save them.
